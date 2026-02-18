@@ -1,13 +1,3 @@
-<<<<<<< HEAD
-=======
-/*  CSS Reset & Base Styles  */
-
-@font-face {
-  font-family: "Explorer";
-  src: url("../ExplorerCondensed-Bold.woff2");
-}
-
->>>>>>> db78c46a65d32be677edd9999d1983428ea0f57b
 * {
   margin: 0;
   padding: 0;
@@ -63,7 +53,7 @@ body {
 .q2-box {
   height: 80%;
   width: 90%;
-  /* background-color: rgb(88, 88, 88); */
+  
 }
 .q2 .q2-btn button {
   padding: 3px 13px;

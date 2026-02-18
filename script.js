@@ -25,7 +25,7 @@ q1btn.addEventListener("click", function () {
   } else {
     paragraph.innerHTML = "Hello";
     para.style.backgroundColor = "white";
-    paragraph.style.fontSize = "60px";
+    paragraph.style.fontSize = "59px";
     para.style.borderRadius = "0px";
     reset = "hello";
   }
