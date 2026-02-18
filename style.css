@@ -1,3 +1,13 @@
+<<<<<<< HEAD
+=======
+/*  CSS Reset & Base Styles  */
+
+@font-face {
+  font-family: "Explorer";
+  src: url("../ExplorerCondensed-Bold.woff2");
+}
+
+>>>>>>> db78c46a65d32be677edd9999d1983428ea0f57b
 * {
   margin: 0;
   padding: 0;
